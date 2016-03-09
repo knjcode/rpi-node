@@ -1,4 +1,4 @@
-FROM resin/rpi-raspbian:wheezy
+FROM resin/rpi-raspbian:jessie
 
 # gpg keys listed at https://github.com/nodejs/node
 RUN set -ex \
